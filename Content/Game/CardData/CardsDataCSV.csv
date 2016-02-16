@@ -1,0 +1,17 @@
+,CardID,CardMaterial,CardIMG,CardDamage,CardTime,CardRarity,CardType,CardName,CardText,CardEffect
+0,0,0,0,-25,0,Common,Free,The Fool,Deal 25 dmg,Instant
+1,1,0,1,-5,3,Common,Free,The Magician,Burn 5 dmg over 3 sec,OverTime
+2,2,0,2,0,2,Common,Free,The High Priestess,Stun player,Stun
+3,3,0,3,0,3,Rare,Free,The Empress,Root player,Root
+4,4,0,4,0,5,Rare,Free,The Emperor,Silence player,Silence
+5,5,0,5,0,2,Common,Free,The Hierophant,Sleep player,Sleep
+6,6,0,6,0,2,Common,Free,The Lovers,Blind player,Blind
+7,7,0,7,20,0,Common,Target,The Chariot,Heal player for 20,Instant
+8,8,0,8,5,5,Rare,Target,Strength,Heal player for 5 over 5 sec,OverTime
+9,9,0,9,10,0,Rare,Target,The Hermit,,CardBoost
+10,10,0,10,10,0,Common,Target,Wheel of Fortune,,Instant
+11,11,0,11,10,0,Common,AOE,Justice,all drop all cards in an area,Instant
+12,12,0,12,10,0,Common,AOE,The Hanged Man,veigar cage 3 sec. 3 sec stun,Instant
+13,13,0,13,10,0,Rare,AOE,Death,deal 50 damage,Instant
+14,14,0,14,10,0,Rare,AOE,Temperance,deal dmg when target moves,Instant
+15,15,0,15,10,0,Epic,Free,The Devil,swap life,Instant
